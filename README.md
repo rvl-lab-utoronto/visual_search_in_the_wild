@@ -18,7 +18,7 @@ The project was tested with the following libraries:
 - scikit-image (0.16.2)
 - scikit-learn (0.22)
 
-Additional requirements are provided in the [**requirements.txt**](requirements.txt) file.
+Full requirements are provided in the [**requirements.txt**](requirements.txt) file.
 
 #### Setup
 
