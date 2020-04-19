@@ -1,0 +1,12 @@
+/data/scotts_reef_fixed/DIR_0900
+/data/scotts_reef_fixed/DIR_0910
+/data/scotts_reef_fixed/DIR_0920
+/data/scotts_reef_fixed/DIR_0930
+/data/scotts_reef_fixed/DIR_0940
+/data/scotts_reef_fixed/DIR_0950
+/data/scotts_reef_fixed/DIR_1000
+/data/scotts_reef_fixed/DIR_1010
+/data/scotts_reef_fixed/DIR_1020
+/data/scotts_reef_fixed/DIR_1030
+/data/scotts_reef_fixed/DIR_1040
+/data/scotts_reef_fixed/DIR_1050
